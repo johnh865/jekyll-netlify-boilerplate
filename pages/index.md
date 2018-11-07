@@ -11,16 +11,5 @@ intro_paragraph: >
   pages and posts, and a continuous deployment workflow.
   interestante. 
   
-Heading
-=======
-## I'm just testing if this works.
-
-Is it working? 
-
-Horizontal rule
----
-
-ok.
-
 
 ---
