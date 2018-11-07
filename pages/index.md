@@ -10,9 +10,7 @@ intro_paragraph: >
 
 ---
 
-## Americans For Representation
-
-### Our Broken Government
+### Broken American Government
 
 We all know something is wrong with government. The Economist calls our government a “flawed democracy”. According to Gallup, “Only 28% of Americans have a positive overall view of the US federal government… That was the lowest rating for any business or industry sector”. Mechanisms such as money in politics, the electoral college, and gerrymandering have corrupted our democracy. But what can we do to fix America? 
 
@@ -52,7 +50,9 @@ The AFR will provide several services for its members. It will:
 
 The AFR will not exclusively support one party. The AFR will choose its support strategically with the goal of maximizing our members’ political power and influence. 
 
-![AFR Structure](/assets/img/uploads/AFR structure.png)
+![AFR Structure](/assets/img/uploads/AFR structure.png =50x)
+
+
 
 ## Reforming Government
 
