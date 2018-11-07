@@ -89,5 +89,19 @@ We want liberals. We want conservatives. We want libertarians. We want socialist
 
 
 
+### Test
+
+I'm trying to test bullets
+
+* Does this work. 
+- How about this
+
+- How bout this.
+
++ How bout this??
+  - This??
+  
+1. Numbers?
+2. Working?
 
 
