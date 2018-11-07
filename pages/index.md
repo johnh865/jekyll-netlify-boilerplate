@@ -13,3 +13,11 @@ intro_paragraph: >
   
 
 ---
+
+## Try heading
+
+Did it work? 
+
+Try list:
+ * hmm
+ * yep.
