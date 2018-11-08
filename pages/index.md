@@ -16,9 +16,10 @@ We all know something is wrong with government. The Economist calls our governme
 
 The **Americans for Representation (AFR)** is a nonprofit, cooperatively owned advocacy group that seeks to empower American voters by organizing people into collective power that our politicians cannot afford to ignore. With this power we seek to reform our democracy and repair America. We believe that:
 
-- We should strive for political equality for all Americans.
-- The barriers to democratic participation should be as low as possible.
-- We can make American government better - more responsive, more representative, and more satisfactory for everyone. 
+
+-   • We should strive for political equality for all Americans.
+-   •  The barriers to democratic participation should be as low as possible.
+-   •  We can make American government better - more responsive, more representative, and more satisfactory for everyone. 
 
 ## Grassroots Driven Advocacy
 
@@ -41,13 +42,13 @@ This means that you and other members legally own the AFR rather than some priva
 
 The AFR will provide several services for its members. It will: 
 
-- **Provide true democratic representation.** Through democratic ownership, AFR members will elect representative leadership - leaders that can be trusted - leaders with a much shorter leash than the politicians in Washington.
+-   • **Provide true democratic representation.** Through democratic ownership, AFR members will elect representative leadership - leaders that can be trusted - leaders with a much shorter leash than the politicians in Washington.
 
--	**Become a lobbying firm.** The AFR will fight fire-with-fire and arm Americans with the same tools that special interests have used to corrupt our government. 
+-   • **Become a lobbying firm.** The AFR will fight fire-with-fire and arm Americans with the same tools that special interests have used to corrupt our government. 
 
--	**Provide members actionable news & information** on issues and strategic voting in order to maximize voter influence.
+-   • **Provide members actionable news & information** on issues and strategic voting in order to maximize voter influence.
 
--	**Nominate our members as candidates** in Republican and Democratic primaries.
+-   • **Nominate our members as candidates** in Republican and Democratic primaries.
 
 The AFR will not exclusively support one party. The AFR will choose its support strategically with the goal of maximizing our members’ political power and influence. 
 
@@ -67,11 +68,11 @@ The two-party system has also produced decades of political stalemate, polarizat
 
 Political scientists have devised many innovative ideas that could be used to repair our democracy and advance 3rd party participation. These include:
 
--	Proportional representation - Representatives are elected to congress based on vote proportion rather than arbitrary district boundaries. 
+-   • Proportional representation - Representatives are elected to congress based on vote proportion rather than arbitrary district boundaries. 
 
--	Score based voting - an alternative voting system where voters score each candidate, and the candidate with the greatest score wins.
+-   • Score based voting - an alternative voting system where voters score each candidate, and the candidate with the greatest score wins.
 
--	Delegative “liquid” democracy - A mode of governance where voters can choose to delegate out their votes to representatives. Or, voters can choose to directly vote. In other words, you can choose whether you want to directly participate or you want to delegate out your authority.
+-   • Delegative “liquid” democracy - A mode of governance where voters can choose to delegate out their votes to representatives. Or, voters can choose to directly vote. In other words, you can choose whether you want to directly participate or you want to delegate out your authority.
 
 The AFR seeks to create the best possible American democracy. The AFR shall test and validate potential reforms on its own internal election system. After experimentation, validation, and approval by our members, the AFR will then lobby government to implement these new reforms.  
 
@@ -87,21 +88,5 @@ Only with a new consensus can we can finally enact the necessary reforms that ou
 
 We want liberals. We want conservatives. We want libertarians. We want socialists. We want the selfish and the selfless. We want to empower everyone as a rising tide lifts all boats. We want your **active participation**. If you think America can do better, please join our group!
 
-
-
-### Test
-
-I'm trying to test bullets
-
-* Does this work. 
-- How about this
-
-- How bout this.
-
-+ How bout this??
-  - This??
-  
-1. Numbers?
-2. Working?
 
 
