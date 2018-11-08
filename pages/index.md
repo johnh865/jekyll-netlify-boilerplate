@@ -17,7 +17,7 @@ We all know something is wrong with government. The Economist calls our governme
 The **Americans for Representation (AFR)** is a nonprofit, cooperatively owned advocacy group that seeks to empower American voters by organizing people into collective power that our politicians cannot afford to ignore. With this power we seek to reform our democracy and repair America. We believe that:
 
 
--   • We should strive for political equality for all Americans.
+-   •  We should strive for political equality for all Americans.
 -   •  The barriers to democratic participation should be as low as possible.
 -   •  We can make American government better - more responsive, more representative, and more satisfactory for everyone. 
 
@@ -27,8 +27,8 @@ The **Americans for Representation (AFR)** is a nonprofit, cooperatively owned a
 
 We have the ability to make a difference by voting and talking with our congressmen. But our individual efforts are not enough. To win battles, allies must organize into a cohesive, united coalition. To win in politics, we must:
 
-- Organize together to strategically vote in unison at all levels of local, state, and federal government.
--	Send our true representatives to speak to politicians and extract tit-for-tat exchanges in favor of our desired policy, using our collective votes and donations as leverage.
+-  • Organize together to strategically vote in unison at all levels of local, state, and federal government.
+-	 • Send our true representatives to speak to politicians and extract tit-for-tat exchanges in favor of our desired policy, using our collective votes and donations as leverage.
 
 This is the same strategy special interests use to lobby our government. It’s time for ordinary Americans to harness this power. However in order to create this power, we need a new political organization that Americans can trust. We need a cooperatively owned political group. 
 
