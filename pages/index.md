@@ -17,9 +17,9 @@ We all know something is wrong with government. The Economist calls our governme
 The **Americans for Representation (AFR)** is a nonprofit, cooperatively owned advocacy group that seeks to empower American voters by organizing people into collective power that our politicians cannot afford to ignore. With this power we seek to reform our democracy and repair America. We believe that:
 
 <ul>
-<li>We should strive for political equality for all Americans.<li>
-<li>The barriers to democratic participation should be as low as possible.<li>
-<li>We can make American government better - more responsive, more representative, and more satisfactory for everyone.<li>
+<li>We should strive for political equality for all Americans.</li>
+<li>The barriers to democratic participation should be as low as possible.</li>
+<li>We can make American government better - more responsive, more representative, and more satisfactory for everyone.</li>
 </ul>
 
 ## Grassroots Driven Advocacy
@@ -28,8 +28,8 @@ The **Americans for Representation (AFR)** is a nonprofit, cooperatively owned a
 
 We have the ability to make a difference by voting and talking with our congressmen. But our individual efforts are not enough. To win battles, allies must organize into a cohesive, united coalition. To win in politics, we must:
 
--  • Organize together to strategically vote in unison at all levels of local, state, and federal government.
--	 • Send our true representatives to speak to politicians and extract tit-for-tat exchanges in favor of our desired policy, using our collective votes and donations as leverage.
+<li>Organize together to strategically vote in unison at all levels of local, state, and federal government.</li>
+<li>Send our true representatives to speak to politicians and extract tit-for-tat exchanges in favor of our desired policy, using our collective votes and donations as leverage.</li>
 
 This is the same strategy special interests use to lobby our government. It’s time for ordinary Americans to harness this power. However in order to create this power, we need a new political organization that Americans can trust. We need a cooperatively owned political group. 
 
@@ -43,13 +43,13 @@ This means that you and other members legally own the AFR rather than some priva
 
 The AFR will provide several services for its members. It will: 
 
--   • **Provide true democratic representation.** Through democratic ownership, AFR members will elect representative leadership - leaders that can be trusted - leaders with a much shorter leash than the politicians in Washington.
+<li>**Provide true democratic representation.** Through democratic ownership, AFR members will elect representative leadership - leaders that can be trusted - leaders with a much shorter leash than the politicians in Washington.</li>
 
--   • **Become a lobbying firm.** The AFR will fight fire-with-fire and arm Americans with the same tools that special interests have used to corrupt our government. 
+<li>**Become a lobbying firm.** The AFR will fight fire-with-fire and arm Americans with the same tools that special interests have used to corrupt our government.</li>
 
--   • **Provide members actionable news & information** on issues and strategic voting in order to maximize voter influence.
+<li>**Provide members actionable news & information** on issues and strategic voting in order to maximize voter influence.</li>
 
--   • **Nominate our members as candidates** in Republican and Democratic primaries.
+<li>**Nominate our members as candidates** in Republican and Democratic primaries.</li>
 
 The AFR will not exclusively support one party. The AFR will choose its support strategically with the goal of maximizing our members’ political power and influence. 
 
@@ -69,11 +69,11 @@ The two-party system has also produced decades of political stalemate, polarizat
 
 Political scientists have devised many innovative ideas that could be used to repair our democracy and advance 3rd party participation. These include:
 
--   • Proportional representation - Representatives are elected to congress based on vote proportion rather than arbitrary district boundaries. 
+<li>Proportional representation - Representatives are elected to congress based on vote proportion rather than arbitrary district boundaries.</li>
 
--   • Score based voting - an alternative voting system where voters score each candidate, and the candidate with the greatest score wins.
+<li>Score based voting - an alternative voting system where voters score each candidate, and the candidate with the greatest score wins.</li>
 
--   • Delegative “liquid” democracy - A mode of governance where voters can choose to delegate out their votes to representatives. Or, voters can choose to directly vote. In other words, you can choose whether you want to directly participate or you want to delegate out your authority.
+<li>Delegative “liquid” democracy - A mode of governance where voters can choose to delegate out their votes to representatives. Or, voters can choose to directly vote. In other words, you can choose whether you want to directly participate or you want to delegate out your authority.</li>
 
 The AFR seeks to create the best possible American democracy. The AFR shall test and validate potential reforms on its own internal election system. After experimentation, validation, and approval by our members, the AFR will then lobby government to implement these new reforms.  
 
